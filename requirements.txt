@@ -1,0 +1,4 @@
+pandasql==0.7.3
+cx_Oracle==8.2.1
+fastparquet==0.7.1
+PyMySQL==1.0.2
